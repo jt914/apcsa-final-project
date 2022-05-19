@@ -46,6 +46,9 @@ public class Main{
 
 
         new Car(new File(Constants.paths.get(0)));
+        new Car(new File(Constants.paths.get(1)));
+        new Car(new File(Constants.paths.get(2)));
+
 
     }
 }
